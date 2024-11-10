@@ -1,4 +1,4 @@
-## THE ORANGE WAVE PROJECT 🌊
+## 🌊 THE ORANGE WAVE PROJECT 🌊
 
 👋 Benvenuto/a, siamo @TheOrangeWaveProject un progetto di aggregazione di informazioni/video/podcast/slide selezionate nel web per darvi la possibilità di diventare
 dei Veri sovrani dei Vostri dati e delle Vostre finanze segnalandovi solo materiale focalizzato su:
