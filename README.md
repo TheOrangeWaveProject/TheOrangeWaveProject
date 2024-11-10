@@ -2,6 +2,7 @@
 
 👋 Benvenuto/a, siamo @TheOrangeWaveProject un progetto di aggregazione di informazioni/video/podcast/slide selezionate nel web per darvi la possibilità di diventare
 dei Veri sovrani dei Vostri dati e delle Vostre finanze segnalandovi solo materiale focalizzato su:
+
 ### Bitcoin - Privacy & Sicurezza - Linux e dintorni - Economia Austriaca
 
 🦾 Chercheremo di fornorvi i migliori strumenti per la Sovranità Economica e Digitale.
