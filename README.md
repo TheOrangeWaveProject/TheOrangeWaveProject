@@ -15,4 +15,5 @@ Qui cercheremo di raggruppare tutto il materiale più utile per lo scopo senza f
 Anche voi vi domanderete dove informarsi correttamente su questi temi che oramai sempre più intrinsecamente si connettono e dovremmo padroneggiarli almeno in parte per garantirci la possibilità di avere il controllo dei nostri dati, valori e strumenti. Senza dover riscoprire il fuoco, attingendo dal molto materiale di buona qualità che si trova in rete si propone un percorso con diverse tappe per costruire una struttura di informazioni che vi faranno da base solida per il futuro che verrà.
 
 📫 per contattarci: the_orange_wave@proton.me ⚡
+
 🛠 per inviare materiale create un branch su github e provvederemo a mergarlo ✨
